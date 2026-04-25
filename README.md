@@ -1,6 +1,6 @@
 # 🎓 Student Performance Predictor
 
-This is a Machine Learning project that predicts a student's math score based on reading and writing scores.
+This is a Machine Learning project that predicts a student's english score based on reading and writing scores.
 
 ## 🚀 Features
 - Predicts math score using Linear Regression
